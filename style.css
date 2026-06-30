@@ -5,16 +5,20 @@
     font-family:'Segoe UI', Arial, sans-serif;
 body{
 
-    background:
+    background-color:#eaf6ff;
+
+    background-image:
     linear-gradient(
-    rgba(255,255,255,0.90),
-    rgba(230,245,255,0.90)
+    rgba(255,255,255,0.85),
+    rgba(255,255,255,0.85)
     ),
-    url("https://images.unsplash.com/photo-1581578731548-c64695cc6952");
+    url("IMG_3023.jpeg");
 
     background-size:cover;
 
     background-position:center;
+
+    background-repeat:no-repeat;
 
     background-attachment:fixed;
 
