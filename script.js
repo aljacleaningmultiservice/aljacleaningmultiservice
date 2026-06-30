@@ -1,5 +1,3 @@
-window.onload = function(){
-
-    console.log("Welcome to ALJA Multi Service Clean");
-
-};
+```javascript
+console.log("ALJA Cleaning Multi-Service LLC website loaded successfully");
+```
